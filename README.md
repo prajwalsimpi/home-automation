@@ -9,14 +9,14 @@ Requirements:
 
 Connections:
 (with Bluetooth HC-05 to NodeMCU)
-5V    - - -  Vin
-GND   - - -  GND
-RX    - - -  TX
-TX    - - -  RX
+1.5V    - - -  Vin
+2.GND   - - -  GND
+3.RX    - - -  TX
+4.TX    - - -  RX
 (with 5V relay to NodeMCU)
-Vin   - - -  3v3
-GND   - - -  GND
-IN    - - -  D1
+1.Vin   - - -  3v3
+2.GND   - - -  GND
+3.IN    - - -  D1
 (with relay and Appliances)
-NO    - - -  220V INPUT
-COM   - - -  TO THE APPLIANCE
+1.NO    - - -  220V INPUT
+2.COM   - - -  TO THE APPLIANCE
